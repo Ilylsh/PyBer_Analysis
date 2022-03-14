@@ -8,12 +8,12 @@
 
 ## Results
 ### Summary of Overall Ride-Sharing per City Type
-![Pyber_summary](Pyber_summary.png)  
+![Pyber_summary](./challenge/Pyber_summary.png)  
 <br>From what is shown in the dataframe above, from the perspectives of total rides, total drivers, and total fares, we can see there're 10 times more fares, rides, and drivers in Urban than Rural area. Even comparing with Urban and Suburban area, the total fares of Urban cities are 2 times more than that in Suburban cities.
 <br>However, even though the total fares, rides are way less in Rural area than that in Urban cities. As we have less drivers working in the Rural area, the average fare per ride and per driver is almost 40% higher than that in Urban cities.
 
 ### Fares distribution from Jan.2019 to Apr.2019 per City Type
-![PyBer_fare_summary](PyBer_fare_summary.png)
+![PyBer_fare_summary](./challenge/PyBer_fare_summary.png)
 <br>The line chart above also reflects the same point as the overall summary - Urban cities have the most total fares, followed by Suburban cities and Rural areas.  
 <br> On the other hand, we can also see the variance of fares from Jan.2019 to Apr.2019 is very minimum, as all 3 lines tend to be flat during that period of time, which means not too much difference in the level of fares during Jan.2019 to Apr.2019.
 
